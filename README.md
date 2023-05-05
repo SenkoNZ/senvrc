@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=senvrc&theme=tokyonight_duo&border_radius=5">
+  <img src="https://streak-stats.demolab.com?user=senkonz&theme=tokyonight_duo&border_radius=5">
 </p>
