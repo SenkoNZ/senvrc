@@ -19,7 +19,7 @@
 
 ## **📫 Contact**
 <a href="https://github.com/SenkoNZ"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
-**Please Contact me on Discord for a quick response:** [reprogrammed](https://discord.com/users/639668795597651978).
+**Please Contact me on Discord for a quick response:** [senkochan.](https://discord.com/users/639668795597651978).
 
 **You can also email me here:** sendowsxp@gmail.com
 
