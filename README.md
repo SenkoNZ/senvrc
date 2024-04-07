@@ -14,8 +14,7 @@
 
 
 ## **📊 Github Stats**
-<!-- <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SenkoNZ&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenkoNZ&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/></p>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=maidsenko&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidsenko&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/></p>
 
 ## **📫 Contact**
 <a href="https://github.com/SenkoNZ"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/853458069069496370/1226405543262949487/1062905585290457130.png?ex=6624a62b&is=6612312b&hm=d7551c9dcded18cf3daa18cfd07e42974c9d94c97370b54a23cd9338d4583998&" /></a>
