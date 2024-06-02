@@ -10,7 +10,7 @@
 <br><br>
 
 ## **💻 Experience**
-<a href="https://senko.ninja/"><img align="right" width="100" src="https://i.imgur.com/lDqbtU8.png"></a>I'm currently studying software engineering at [Open Polytechnic NZ](https://www.openpolytechnic.ac.nz/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+<a href="https://senko.ninja/"><img align="right" width="100" src="https://i.imgur.com/lDqbtU8.png"></a>I'm a self taught developer and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 
 ## **📊 Github Stats**
