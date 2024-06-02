@@ -22,5 +22,6 @@
 
 **You can also email me here:** sendowsxp@gmail.com
 
-<a href="https://github.com/maidsenko/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=maidsenko"></a><a href="https://senko.ninja/"> <img src="https://img.shields.io/github/followers/maidsenko?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://discord.com/users/639668795597651978"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/> </a><a href="mailto:sendowsxp@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/maidsenko/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=maidsenko"></a>
+<a href="https://discord.com/users/639668795597651978"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/> 
+<a href="https://wakatime.com/@d4d3dccd-5911-459b-921e-915e926003d6"><img src="https://wakatime.com/badge/user/d4d3dccd-5911-459b-921e-915e926003d6.svg" alt="Total time coded since May 14 2024" /></a>
