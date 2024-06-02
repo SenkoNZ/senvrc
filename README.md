@@ -18,9 +18,7 @@
 
 ## **📫 Contact**
 <a href="https://senko.ninja/"><img align="right" width="100" src="https://i.imgur.com/xix3Seq.png" /></a>
-**Please Contact me on Discord for a quick response:** [maidsenko](https://discord.com/users/639668795597651978).
-
-**You can also email me here:** sendowsxp@gmail.com
+**Please Contact me on Discord for a quick response:** [itssenko](https://discord.com/users/639668795597651978).
 
 <a href="https://github.com/maidsenko/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=maidsenko"></a>
 <a href="https://discord.com/users/639668795597651978"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/> 
